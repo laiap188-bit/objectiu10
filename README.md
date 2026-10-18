@@ -20,3 +20,12 @@ Aplicació gratuïta, estàtica i en català per al primer parcial de PRO1, IC, 
 - La jornada del 25/10 concentra moltes tasques: revisa l'estimació i descansa. La memòria de conceptes del 20/10 i del 25/10 és un objectiu, no una garantia.
 - El formulari és una base extensa de consulta però cal contrastar les convencions de signes i les condicions de cada exercici amb els apunts del professor.
 - Pots usar `python -m http.server 8000` dins de la carpeta per provar-la localment des d'un ordinador. No obrint `index.html` amb `file://` si vols provar la instal·lació PWA.
+
+
+## Actualització v2 — 18 d'octubre de 2026
+
+S'han afegit apunts en català, explicats per temes, amb exemples i errors freqüents, a **Matèries**. El banc de flashcards s'ha ampliat per a totes quatre assignatures. La clau de localStorage (`objectiu10.progres`) i els índexs inicials de flashcards s'han conservat per protegir el progrés existent.
+
+Per actualitzar: fes una còpia a Eines → Exporta progrés; després puja només els fitxers de l'arrel de `objectiu10` al repositori de GitHub (substituint els del mateix nom). Els PDFs de `materials/` no han canviat. Espera que GitHub Pages acabi de desplegar, actualitza la pestanya i comprova Matèries → PRO1 i Flashcards.
+
+Els apunts complementen, però no substitueixen, els materials del professor; en cas de discrepància de notació o criteri, segueix l'enunciat i els apunts oficials.
